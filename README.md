@@ -1,147 +1,127 @@
-<h1 align="center">Hi 👋, I'm Amita Singh</h1>
+<div align="center">
 
-<h3 align="center">
-MCA Student @ MNNIT Allahabad • Full Stack Developer • AI Enthusiast
-</h3>
+# Hi, I'm Amita Singh 👋
 
-<p align="center">
-Building scalable web applications, exploring AI-powered systems,
-and solving Data Structures & Algorithms using Java.
-</p>
+### MCA Student at MNNIT Allahabad
 
----
+Backend Development • Full Stack Web Development • Data Structures & Algorithms
 
-## 👩‍💻 About Me
+Building web applications with a focus on clean architecture, scalable backend systems, and efficient problem solving.
 
-🎓 MCA Student at MNNIT Allahabad
-
-💻 Interested in Backend Engineering, Full Stack Development and AI
-
-🌱 Currently learning
-
-- Spring Boot
-- AWS
-- System Design
-
-🧩 Solving DSA regularly using Java
-
-🚀 Looking for Software Engineering Opportunities
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## About Me
+
+I'm an MCA student at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad** with a strong interest in software development.
+
+I enjoy designing backend systems, building full-stack web applications, and strengthening my problem-solving skills through Data Structures & Algorithms in Java.
+
+I'm always looking to improve my development practices by building projects that solve real-world problems.
+
+---
+
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## ⚖️ Nyaay Sahayak
+### Nyaay Sahayak
 
-AI-powered legal assistant using Retrieval-Augmented Generation (RAG).
+A legal assistance platform designed to simplify access to legal information through an intuitive web interface, secure authentication, document management, and a modular backend architecture.
 
-**Tech Stack**
-
-React • Node.js • Express • FastAPI • MongoDB • LangChain • FAISS
+**Tech Stack:** React • Node.js • Express • MongoDB • FastAPI
 
 ---
 
-## 🍔 HungryHostel
+### HungryHostel
 
-Responsive food ordering website with interactive UI.
+A responsive food ordering web application featuring category-based browsing, search functionality, and a modern user interface.
 
----
-
-## 📱 Buddy
-
-React Native based communication application.
+**Tech Stack:** React • JavaScript • CSS
 
 ---
 
-## 🌦️ SkyView
+### Buddy
 
-Voice-enabled weather web application with live forecasts.
+A mobile application developed with React Native, focused on creating a seamless communication experience.
 
----
-
-# 📈 Currently Working On
-
-✔ Spring Boot
-
-✔ AWS
-
-✔ Advanced DSA
-
-✔ System Design
+**Tech Stack:** React Native • JavaScript
 
 ---
 
-# 📊 GitHub Stats
+### SkyView
+
+A weather application that provides live forecasts with location search and voice-enabled interactions.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+## What I'm Working On
+
+* Improving problem-solving through Data Structures & Algorithms
+* Building full-stack web applications
+* Exploring backend design and scalable application development
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=amita-singh01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amita-singh01&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=amita-singh01&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amita-singh01&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📌 Most Used Languages
+## Connect With Me
 
-<p align="center">
+<p>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amita-singh01&layout=compact&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> • <a href="mailto:YOUR-EMAIL">Email</a>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
-📧 Email: YOUR EMAIL
+*"Great software is built with curiosity, consistency, and attention to detail."*
 
-💼 LinkedIn: YOUR LINKEDIN
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+</div>
