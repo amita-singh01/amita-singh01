@@ -2,119 +2,145 @@
 
 # Hi, I'm Amita Singh 👋
 
-### MCA Student at MNNIT Allahabad
+### MCA Student @ MNNIT Allahabad
 
-Backend Development • Full Stack Web Development • Data Structures & Algorithms
+**Backend Development • Full Stack Web Development • Data Structures & Algorithms**
 
-Building web applications with a focus on clean architecture, scalable backend systems, and efficient problem solving.
+Building reliable web applications, writing clean code, and continuously improving problem-solving skills through DSA.
+
+<br>
+
+<p>
+  <a href="https://github.com/amita-singh01">
+    <img src="https://komarev.com/ghpvc/?username=amita-singh01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+# 👩‍💻 About Me
 
-I'm an MCA student at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad** with a strong interest in software development.
+I'm currently pursuing my **Master of Computer Applications (MCA)** at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**.
 
-I enjoy designing backend systems, building full-stack web applications, and strengthening my problem-solving skills through Data Structures & Algorithms in Java.
-
-I'm always looking to improve my development practices by building projects that solve real-world problems.
+I enjoy building scalable web applications, exploring backend development, and solving Data Structures & Algorithms using Java. I believe in learning by building practical projects and continuously improving my development skills.
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite" />
+<img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## Featured Projects
+# 📂 Selected Projects
 
-### Nyaay Sahayak
+## ⚖️ Nyaay Sahayak
 
-A legal assistance platform designed to simplify access to legal information through an intuitive web interface, secure authentication, document management, and a modular backend architecture.
+A legal assistance platform designed to simplify access to legal information through secure authentication, document management, and an intuitive user experience.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • FastAPI
+**Highlights**
 
----
+* User authentication and authorization
+* PDF upload and document management
+* Modular backend architecture
+* Retrieval-based legal assistance
 
-### HungryHostel
+**Tech Stack**
 
-A responsive food ordering web application featuring category-based browsing, search functionality, and a modern user interface.
-
-**Tech Stack:** React • JavaScript • CSS
-
----
-
-### Buddy
-
-A mobile application developed with React Native, focused on creating a seamless communication experience.
-
-**Tech Stack:** React Native • JavaScript
+`React` • `Node.js` • `Express.js` • `MongoDB` • `FastAPI`
 
 ---
 
-### SkyView
+## 💬 Real-Time Chat Application
 
-A weather application that provides live forecasts with location search and voice-enabled interactions.
+A full-stack chat application enabling seamless real-time communication with a clean and responsive interface.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Highlights**
 
----
+* Real-time messaging
+* Authentication system
+* Responsive UI
+* Modern frontend architecture
 
-## What I'm Working On
+**Tech Stack**
 
-* Improving problem-solving through Data Structures & Algorithms
-* Building full-stack web applications
-* Exploring backend design and scalable application development
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amita-singh01&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amita-singh01&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+`React` • `Node.js` • `Express.js` • `Socket.IO` • `MongoDB`
 
 ---
 
-## Connect With Me
+## 🎮 Breach
 
-<p>
+A 3D game developed using Unity featuring immersive gameplay mechanics and interactive environments.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> • <a href="mailto:YOUR-EMAIL">Email</a>
+**Highlights**
+
+* Built with Unity Engine
+* Interactive gameplay
+* Object-oriented architecture
+* Version controlled using Git
+
+**Tech Stack**
+
+`Unity` • `C#`
+
+---
+
+# 📈 Currently Focusing On
+
+* Backend Development
+* Full Stack Web Development
+* Data Structures & Algorithms
+* Writing clean, maintainable code
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amita-singh01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amita-singh01&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/amitasingh014/">LinkedIn</a> • <a href="mailto:amita3.ab@gmail.com">Email</a>
 
 </p>
 
@@ -122,6 +148,8 @@ A weather application that provides live forecasts with location search and voic
 
 <div align="center">
 
-*"Great software is built with curiosity, consistency, and attention to detail."*
+### Thanks for stopping by!
+
+*"Keep learning. Keep building."*
 
 </div>
